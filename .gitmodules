@@ -1,0 +1,3 @@
+[submodule "gdnative_cpp_example/godot-cpp"]
+	path = gdnative_cpp_example/godot-cpp
+	url = https://github.com/godotengine/godot-cpp.git
